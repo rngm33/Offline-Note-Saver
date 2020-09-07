@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/itmhome"
+        app:showAsAction="always"
+        android:title="HOME"
+        android:icon="@drawable/ic_home">
+
+    </item>
+
+    <item android:id="@+id/itmadd"
+        app:showAsAction="always"
+        android:title="ADD"
+        android:icon="@drawable/ic_add">
+
+    </item>
+    <item android:id="@+id/itmabout"
+        app:showAsAction="always"
+        android:title="ABOUT"
+        android:icon="@drawable/ic_info">
+
+    </item>
+</menu>
